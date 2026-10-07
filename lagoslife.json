@@ -1,0 +1,188 @@
+{
+  "scraped_at": "2026-10-07T15:41:08",
+  "url": "https://lagoslife.app/",
+  "stats": {
+    "online": "127k",
+    "visits": "20737k",
+    "homes": "400"
+  },
+  "locations": [
+    {
+      "emoji": "🎷",
+      "name": "Afrika Shrine",
+      "coming_soon": false
+    },
+    {
+      "emoji": "⚽",
+      "name": "Viewing Centre",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🍲",
+      "name": "Amala Shitta",
+      "coming_soon": false
+    },
+    {
+      "emoji": "💡",
+      "name": "CcHub",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🧺",
+      "name": "Market",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🎭",
+      "name": "Freedom Park",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🏋️",
+      "name": "i-Fitness",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🏢",
+      "name": "Office",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🪩",
+      "name": "Quilox",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🌉",
+      "name": "Canopy Walk",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🛍️",
+      "name": "The Palms",
+      "coming_soon": false
+    },
+    {
+      "emoji": "📚",
+      "name": "The Library",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🏖️",
+      "name": "Beach",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🏥",
+      "name": "General Hospital",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🕯️",
+      "name": "Ivory Rooftop",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🚓",
+      "name": "Police Station",
+      "coming_soon": false
+    },
+    {
+      "emoji": "⛪",
+      "name": "Church",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🕌",
+      "name": "Mosque",
+      "coming_soon": false
+    },
+    {
+      "emoji": "📻",
+      "name": "Naija Radio",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🗳️",
+      "name": "Polling Unit",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🏨",
+      "name": "Eko Hotels",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🚘",
+      "name": "Polanco Motors",
+      "coming_soon": false
+    },
+    {
+      "emoji": "⛵",
+      "name": "Boat Cruise",
+      "coming_soon": false
+    },
+    {
+      "emoji": "⛳",
+      "name": "Ikoyi Golf Club",
+      "coming_soon": false
+    },
+    {
+      "emoji": "⚖️",
+      "name": "High Court",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🎓",
+      "name": "UNILAG",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🎰",
+      "name": "Eko Casino",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🫶🏾",
+      "name": "MindSpace",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🏟️",
+      "name": "Stadium",
+      "coming_soon": false
+    },
+    {
+      "emoji": "🚧",
+      "name": "✈️ Airport",
+      "coming_soon": true
+    },
+    {
+      "emoji": "🚧",
+      "name": "🛢️ Refinery",
+      "coming_soon": true
+    }
+  ],
+  "links": [
+    {
+      "text": "(no text)",
+      "href": "https://x.com/LagosLifeApp"
+    },
+    {
+      "text": "(no text)",
+      "href": "https://www.tiktok.com/@official.lagos.lif"
+    },
+    {
+      "text": "(no text)",
+      "href": "https://www.instagram.com/lagoslifeapp/"
+    },
+    {
+      "text": "(no text)",
+      "href": "https://www.linkedin.com/company/lagos-life-app"
+    },
+    {
+      "text": "Privacy",
+      "href": "/privacy"
+    }
+  ]
+}
