@@ -2,6 +2,8 @@
 
 A Python web scraper that extracts live data from [lagoslife.app](https://lagoslife.app/) — a JavaScript-heavy virtual city game — and tracks its stats over time.
 
+![Live stats trend chart](stats_chart.png)
+
 ## What it does
 
 - **Renders JavaScript-heavy pages** using Playwright (headless Chromium) — handles content that plain `requests` + BeautifulSoup can't reach
